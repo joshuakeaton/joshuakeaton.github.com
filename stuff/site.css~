@@ -1,0 +1,6 @@
+
+span.codedirection { unicode-bidi:bidi-override; direction: rtl; }
+span.displaynone { display:none; }
+span.joshtime:after { color: red; content: "josh\40InTheKeyOfJesus.com"; }
+
+
