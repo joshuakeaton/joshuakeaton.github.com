@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+ <title>In The Key of Jesus Radio</title>
+  <trackList>
+
+   <track>
+            <identifier>12086225</identifier>
+    <location>http://inthekeyofjesus.com/radio/show-4.mp3</location>
+    <annotation>Episode 4: How does Jesus handle Hot Weather?</annotation>
+   </track>
+
+   <track>
+            <identifier>69086233</identifier>
+    <location>http://inthekeyofjesus.com/radio/show-3.mp3</location>
+    <annotation>Episode 3: Was Jesus a fit guy?</annotation>
+   </track>
+
+
+   <track>            <identifier>69086261</identifier>
+    <location>http://inthekeyofjesus.com/radio/show-2.mp3</location>
+    <annotation>Episode 2: How about Body Image?</annotation>
+   </track>
+
+
+   <track>
+            <identifier>69086265</identifier>
+    <location>http://inthekeyofjesus.com/radio/show-1.mp3</location>
+    <annotation>Episode 1: Would Jesus eat fast food?</annotation>
+   </track>
+  </trackList>
+</playlist>
